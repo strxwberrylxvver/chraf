@@ -1,0 +1,31 @@
+# Hello Kitty Java App 💖
+
+A cute Java application that provides motivational affirmations with a Hello Kitty theme! 🎀 The app features a pink, adorable interface and displays encouraging messages for users. Perfect for adding a touch of positivity and charm to your day. 😊
+
+---
+
+## Features ✨
+- **Hello Kitty-inspired theme:** Includes pastel pink colors, Hello Kitty images, and rounded, aesthetic buttons.
+- **Random affirmations:** Displays a positive motivational quote each time you click the button.
+- **Custom background image:** A cute Hello Kitty wallpaper enhances the app's style.
+- **User-friendly UI:** Simple, clean, and interactive design.
+
+---
+
+## Preview 🖼️
+
+![App Screenshot](images/cute_pattern.png)
+
+---
+
+## How to Run 🚀
+
+### Prerequisites
+Make sure you have the following installed:
+- **Java Development Kit (JDK)** (version 17 or higher)
+- **An IDE (e.g., Eclipse, IntelliJ IDEA)** or ability to run Java programs from the terminal.
+
+### Steps
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/HelloKittyJavaApp.git
