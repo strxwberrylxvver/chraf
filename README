@@ -1,13 +1,12 @@
 # Hello Kitty Java App 💖
 
-A cute Java application that provides motivational affirmations with a Hello Kitty theme! 🎀 The app features a pink, adorable interface and displays encouraging messages for users. Perfect for adding a touch of positivity and charm to your day. 😊
+A cute Java application that provides motivational christian affirmations with a Hello Kitty theme! 🎀 The app features a pink, adorable interface and displays encouraging messages for users. Perfect for adding a touch of positivity and charm to your day. 😊
 
 ---
 
 ## Features ✨
-- **Hello Kitty-inspired theme:** Includes pastel pink colors, Hello Kitty images, and rounded, aesthetic buttons.
-- **Random affirmations:** Displays a positive motivational quote each time you click the button.
-- **Custom background image:** A cute Hello Kitty wallpaper enhances the app's style.
+- **Hello Kitty-inspired theme:** Includes pastel pink colors and Hello Kitty background images.
+- **Affirmations:** Displays a positive motivational quote each time you click the button.
 - **User-friendly UI:** Simple, clean, and interactive design.
 
 ---
@@ -28,4 +27,4 @@ Make sure you have the following installed:
 ### Steps
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/HelloKittyJavaApp.git
+   git clone https://github.com/merrone/ChristianAffirmations.git
