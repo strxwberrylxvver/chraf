@@ -8,18 +8,13 @@ A cute Java application that provides motivational christian affirmations with a
 - **Hello Kitty-inspired theme:** Includes pastel pink colors and Hello Kitty background images.
 - **Affirmations:** Displays a positive motivational quote each time you click the button.
 - **User-friendly UI:** Simple, clean, and interactive design.
+ what it looks like !
 
+<img width="494" alt="Image" src="https://github.com/user-attachments/assets/c3b67b56-626c-4e05-8ec0-e784042f74ac" />
+<img width="291" alt="Image" src="https://github.com/user-attachments/assets/7c39d415-3c73-4ddc-8b02-065e190e6025" />
 
 ---
-
-## How to Run 🚀
-
 ### Prerequisites
 Make sure you have the following installed:
 - **Java Development Kit (JDK)** (version 17 or higher)
 - **An IDE (e.g., Eclipse, IntelliJ IDEA)** or ability to run Java programs from the terminal.
-
-### Steps
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/merrone/ChristianAffirmations.git
